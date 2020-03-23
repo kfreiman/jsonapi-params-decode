@@ -1,4 +1,4 @@
-package middleware
+package jsonapi-params-decode
 
 import (
 	"context"
