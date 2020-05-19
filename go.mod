@@ -1,4 +1,4 @@
-module github.com/kfreiman/jsonapiparamsdecoder
+module github.com/kfreiman/jsonapi-params-decode
 
 go 1.14
 
