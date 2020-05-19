@@ -1,4 +1,4 @@
-package jsonapi-params-decode
+package jsonapiparamsdecoder
 
 import (
 	"context"
